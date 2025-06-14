@@ -35,13 +35,13 @@ Raw Dataset for New Zealand Vehicle Theft Analysis.xlsx
 
  Key Insights & Findings
 
-Most Affected Locations: Auckland and Canterbury reported the highest number of thefts, likely due to urban congestion and high vehicle presence.
-Top Vehicle Brands Stolen: Toyota, Trailer, and Nissan were the most targeted brands, potentially due to high resale demand or weaker anti-theft tech.
-Time of Day: The majority of thefts happened between 12 AM – 6 AM, during low vigilance hours.
-Days of the Week: Slight increases were noted on weekends, indicating less monitoring or more overnight parking.
-Vehicle Types: Stationwagons and Saloons were stolen more frequently than other vehicle types.
-Vehicle Colors: White and Silver were the most stolen, possibly because they’re common and easily blend in.
-Seasonal Trends: Theft cases saw a small peak in December, possibly linked to holidays or reduced law enforcement presence.
+* Most Affected Locations: Auckland and Canterbury reported the highest number of thefts, likely due to urban congestion and high vehicle presence.
+* Top Vehicle Brands Stolen: Toyota, Trailer, and Nissan were the most targeted brands, potentially due to high resale demand or weaker anti-theft tech.
+* Time of Day: The majority of thefts happened between 12 AM – 6 AM, during low vigilance hours.
+* Days of the Week: Slight increases were noted on weekends, indicating less monitoring or more overnight parking.
+* Vehicle Types: Stationwagons and Saloons were stolen more frequently than other vehicle types.
+* Vehicle Colors: White and Silver were the most stolen, possibly because they’re common and easily blend in.
+* Seasonal Trends: Theft cases saw a small peak in December, possibly linked to holidays or reduced law enforcement presence.
 
 
 
